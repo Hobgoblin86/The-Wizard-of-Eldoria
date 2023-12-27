@@ -20,3 +20,10 @@ The hardware required for this project includes:
 
 The case for the handheld was designed by me in Tinkercad:
 https://www.tinkercad.com/things/iZI8byJxRm4-35-tft-screen-arduino-mega-game-case
+
+The required files to flash to the arduino Mega include:
+WizardGame.ino
+strings.h
+
+Include the follwoing library:
+TFT_HX8357.h (https://github.com/Bodmer/TFT_HX8357)
